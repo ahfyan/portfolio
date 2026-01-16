@@ -1,5 +1,10 @@
-# <summary><strong>Halo :wave: !</strong></summary>
-Saya seorang coder yang sedang ingin menjadi seseorang yang kaya raya :laughing:
+# <summary><strong>Halo :wave:, Saya Ahmad Sofyan !</strong></summary>
+<summary>Seorang penggemar IT yang selalu tertarik dengan perkembangan ilmu komputer dan pemrograman.</sumarry>
+<summary>Bekerja sebagai IT Support di perusahaan retail dan bekerja mandiri sebagai web developer.</summary>
+    - Berpengalaman dengan infrastruktur komputer dan jaringan, terbiasa melakukan troubleshooting<br>
+    - Berhasil membangun dan mengembangkan sistem informasi yang saling terhubung dan terstruktur<br>
+    &nbsp&nbsp di beberapa perusahaan.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -10,7 +15,7 @@ Saya seorang coder yang sedang ingin menjadi seseorang yang kaya raya :laughing:
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning Data Analytics.</br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
