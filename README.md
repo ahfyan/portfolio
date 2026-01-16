@@ -1,6 +1,6 @@
 # <summary><strong>Halo :wave: !</strong></summary>
 Saya seorang coder yang sedang ingin menjadi seseorang yang kaya raya :laughing:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%210views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
