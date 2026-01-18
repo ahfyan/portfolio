@@ -1,6 +1,7 @@
 # <summary><strong>Halo :wave:, Saya Ahmad Sofyan !</strong></summary>
-<summary>Seorang penggemar IT yang selalu tertarik dengan perkembangan ilmu komputer dan pemrograman.</sumarry>
-<summary>Bekerja sebagai IT Support di perusahaan retail dan bekerja mandiri sebagai web developer.</summary>
+    Seorang penggemar IT yang selalu tertarik dengan perkembangan ilmu komputer dan pemrograman,
+    Bekerja sebagai IT Support di perusahaan retail dan bekerja mandiri sebagai web developer.
+
     - Berpengalaman dengan infrastruktur komputer dan jaringan, terbiasa melakukan troubleshooting<br>
     - Berhasil membangun dan mengembangkan sistem informasi yang saling terhubung dan terstruktur<br>
     &nbsp&nbsp di beberapa perusahaan.
